@@ -1,0 +1,243 @@
+/* .navigation{
+    background-color: rgb(59, 59, 59);
+    max-height: 10vh;
+    width: 100%;
+    position: fixed;
+}
+.nav{
+    max-height: 10vh;
+    width: 100%;
+    /* position: fixed; */
+/* } */
+/* .nav{
+    margin: 10px 20px 15px 30px;
+    padding: 20px;
+} */
+/* .nav a{
+    text-decoration: none;
+    color: rgb(90, 90, 90);
+    padding  :5px 5px;
+    margin: 5px 5px;
+}
+.nav a:hover{
+ color: rgb(214, 115, 161);;
+}
+.nav .post{
+    color: antiquewhite;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.nav .logo{
+justify-content: center;
+    margin-left: 10px;
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 10%;
+}
+.nav img{
+    width: 5%;
+} */
+
+
+
+
+
+
+
+/* body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+    position: relative;
+    max-height: 8vh;
+    overflow: hidden;
+    background-color: rgb(51, 51, 51);
+    z-index: 1;
+}
+
+.topnav a {
+    position: relative;
+    float: left;
+    color: #f2f2f2;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 10px;
+    margin-left: 15%;
+}
+
+.topnav a:hover {
+    color: rgb(207, 67, 97);
+}
+
+.topnav a.active {
+    background-color: rgb(207, 67, 97);
+    color: white;
+    padding: 10px;
+    border-radius: 1px;
+}
+
+.topnav-centered a {
+    position: relative;
+    top: 27px;
+    right: 40px;
+    left: 600px;
+    transform: translate(-50%, -50%);
+}
+
+.topnav-right p {
+    position: relative;
+    top: 10px;
+    left: 430px;
+    color: white;
+    font-size: 10px;
+}
+
+.topnav-right img {
+    float: right;
+    position: relative;
+    right: 120px;
+    bottom: 25px;
+    width: 40px;
+    height: 40px;
+    padding: 1px;
+    margin: 0px 0px 0px 1px;
+    margin-left: 5px;
+    border-radius: 50%;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .topnav {
+        background-color: lightblue;
+        width: 100%;
+    }
+
+    .topnav-centered a {
+        float: right;
+    }
+
+    .topnav-right p {
+        display: block;
+        float: left;
+    }
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section1 {
+    height: 40vh;
+    width: 100%;
+}
+
+.waves {
+    position: relative;
+    background-color: rgb(207, 67, 97);
+    height: 100%;
+    width: 100%;
+
+    display: inline-block;
+}
+
+.waves img {
+    position: relative;
+    background: no-repeat centre centre;
+    opacity: 0.5;
+    width: 25%;
+    right: 5px;
+    bottom: 167px;
+    background-repeat: repeat-y;
+    background-position: center;
+}
+
+.waves p {
+    text-align: center;
+    font-size: larger;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.waves h5 {
+    text-align: center;
+    color: white;
+}
+
+.waves .onerow {
+    align-content: center;
+    position: absolute;
+    top: 29vh;
+    left: 30vh;
+    margin-left: 10px;
+}
+
+.onerow input {
+    border: none;
+    padding: 10px;
+}
+
+.onerow select {
+    text-align: left;
+}
+
+.waves .onerow button {
+    width: 150px;
+    margin-left: 15px;
+    border: none;
+    padding: 10px;
+    background-color: black;
+    color: rgb(109, 109, 109);
+}
+
+.guitarimg {
+    height: 300px;
+    width: 300px;
+}
+
+.guitarimg img {
+    max-width: 20%;
+    height: auto;
+    position: relative;
+    left: 350px;
+    top: 20px;
+}
+
+.demo {
+    position: relative;
+    left: 700px;
+    width: 25%;
+    bottom: 260px;
+}
+
+
+/* .section2{
+    width: 100%;
+} */
